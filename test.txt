@@ -1,0 +1,4 @@
+pwd
+ls
+prompt
+exit 22
